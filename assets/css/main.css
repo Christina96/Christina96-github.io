@@ -544,6 +544,8 @@ ul.icons li a:before {
 					white-space: nowrap;
 				}
 
+
+
 					ul.icons li a:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
@@ -867,3 +869,16 @@ ul.icons li a:before {
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+
+/* Utility Classes */
+.label {
+    display: inline-block;
+    background-color: #ff7496;
+    color: #ffffff;
+    padding: 0.25em 0.5em;
+    border-radius: 4px;
+    font-size: 0.8em;
+    margin-left: 5px; /* Adjust as needed */
+}
+
